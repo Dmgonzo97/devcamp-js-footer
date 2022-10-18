@@ -1,5 +1,5 @@
 {
-  "name": "devcamp-js-footer",
+  "name": "dmg-devcamp-js-footer",
   "version": "0.1.0",
   "description": "this module allows for a dynamic footer to be generated for JS Aplications with an updated year and name. ",
   "main": "index.js",
